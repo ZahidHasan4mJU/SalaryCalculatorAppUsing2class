@@ -1,0 +1,9 @@
+c:\users\zahid_ju\documents\visual studio 2012\Projects\SalaryCalculatorApp\SalaryCalculatorApp\bin\Debug\SalaryCalculatorApp.exe.config
+c:\users\zahid_ju\documents\visual studio 2012\Projects\SalaryCalculatorApp\SalaryCalculatorApp\bin\Debug\SalaryCalculatorApp.exe
+c:\users\zahid_ju\documents\visual studio 2012\Projects\SalaryCalculatorApp\SalaryCalculatorApp\bin\Debug\SalaryCalculatorApp.pdb
+c:\users\zahid_ju\documents\visual studio 2012\Projects\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.csprojResolveAssemblyReference.cache
+c:\users\zahid_ju\documents\visual studio 2012\Projects\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.SalaryCalcForm.resources
+c:\users\zahid_ju\documents\visual studio 2012\Projects\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.Properties.Resources.resources
+c:\users\zahid_ju\documents\visual studio 2012\Projects\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.csproj.GenerateResource.Cache
+c:\users\zahid_ju\documents\visual studio 2012\Projects\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.exe
+c:\users\zahid_ju\documents\visual studio 2012\Projects\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.pdb
